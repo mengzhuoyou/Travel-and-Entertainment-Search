@@ -18,9 +18,9 @@
 ## Entrance: http://my-project-95670-571-hw8.appspot.com 
 
 ## Usage Example:
-Keyword: pizza
-Category: Restaurant
-Distance: 10
-From: Current Location
+1. Keyword: pizza
+2. Category: Restaurant
+3. Distance: 10
+4. From: Current Location
 
 Then click the search button, you will get the result tabs.
