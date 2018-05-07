@@ -15,7 +15,7 @@
 3. package.json: A json file for configuration.
 4. index.html: Main webpage.
 
-## Entrance: <a srf="http://my-project-95670-571-hw8.appspot.com"> Demo </a> 
+## Entrance: [Demo](http://my-project-95670-571-hw8.appspot.com")
 
 ## Usage Example:
 1. Keyword: pizza
