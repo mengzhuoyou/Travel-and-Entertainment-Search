@@ -1,7 +1,7 @@
 ## Web-Development
 1. This is a webpage that allows users to search for places using the Google Places API and display the results on the same page below the form. 
 2. Once the user clicks on a button to search for place details, the webpage displays several tabs which contain an info table, photos of the place, map and route search form and reviews respectively. And the webpage also supports adding places to and removing places from favorites list and posting place info to Twitter. 
-3. It supports animation(AngularJS), responsive web design(bootstrap) and AJAX, etc.
+3. It supports animation(AngularJS), responsive web design(bootstrap), validation and AJAX, etc.
 
 ## Technologies and Platform Used in Project
 1. AJAX and JSON.
@@ -16,3 +16,11 @@
 4. index.html: Main webpage.
 
 ## Entrance: http://my-project-95670-571-hw8.appspot.com 
+
+## Usage Example:
+Keyword: pizza
+Category: Restaurant
+Distance: 10
+From: Current Location
+
+Then click the search button, you will get the result tabs.
